@@ -169,7 +169,7 @@ db 8B 81 20 03 00 00
                     </CheatEntry>
                     <CheatEntry>
                       <ID>195</ID>
-                      <Description>Overlapping Planting</Description>
+                      <Description>"Overlapping Planting"</Description>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>[ENABLE]
 //code from here to '[DISABLE]' will be used to enable the cheat
@@ -481,59 +481,59 @@ unregistersymbol(slot)
                       <ID>201</ID>
                       <Description>"Slot 1"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -602,59 +602,59 @@ OC:——其它——
                       <ID>204</ID>
                       <Description>"Slot 2"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -723,59 +723,59 @@ OC:——其它——
                       <ID>205</ID>
                       <Description>"Slot 3"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -844,59 +844,59 @@ OC:——其它——
                       <ID>206</ID>
                       <Description>"Slot 4"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -965,59 +965,59 @@ OC:——其它——
                       <ID>207</ID>
                       <Description>"Slot 5"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -1086,59 +1086,59 @@ OC:——其它——
                       <ID>208</ID>
                       <Description>"Slot 6"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -1207,59 +1207,59 @@ OC:——其它——
                       <ID>209</ID>
                       <Description>"Slot 7"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -1328,59 +1328,59 @@ OC:——其它——
                       <ID>210</ID>
                       <Description>"Slot 8"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -1449,59 +1449,59 @@ OC:——其它——
                       <ID>211</ID>
                       <Description>"Slot 9"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -1570,59 +1570,59 @@ OC:——其它——
                       <ID>212</ID>
                       <Description>"Slot 10"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -2111,59 +2111,59 @@ OF:——其它——
                       <ID>199</ID>
                       <Description>"光标选取的种子包"</Description>
                       <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
-0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -2233,59 +2233,59 @@ OC:——其它——
                     <CheatEntry>
                       <ID>203</ID>
                       <Description>"植物图鉴"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:豌豆射手
-1:向日葵
-2:樱桃炸弹
-3:坚果墙
-4:土豆雷
-5:寒冰射手
-6:大嘴花
-7:双发射手
-8:小喷菇
-9:阳光菇
-10:大喷菇
-11:墓碑吞噬者
-12:魅惑菇
-13:胆小菇
-14:寒冰菇
-15:毁灭菇
-16:荷叶
-17:窝瓜
-18:三线射手
-19:缠绕水草
-20:火爆辣椒
-21:地刺
-22:火炬树桩
-23:高坚果
-24:海蘑菇
-25:路灯花
-26:仙人掌
-27:三叶草
-28:裂夹射手
-29:杨桃
-30:南瓜头
-31:磁力菇
-32:卷心菜投手
-33:花盆
-34:玉米投手
-35:咖啡豆
-36:大蒜
-37:叶子保护伞
-38:金盏花
-39:西瓜投手
-40:孢子投手
-41:水盆
-42:爆炸坚果
-43:飓风甘蓝
-44:毒蘑菇
-45:泡椒炸弹
-46:榴莲
-47:孢子抛射手
-48:回旋花
-49:弹簧豆
-50:粘液豌豆射手
-51:寒冰坚果
-52:月光花
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:Peashooter
+1:Sunflower
+2:Cherry Bomb
+3:Wall-nut
+4:Potato Mine
+5:Snow Pea
+6:Chomper
+7:Repeater
+8:Puff-shroom
+9:Sun-shroom
+10:Fume-shroom
+11:Grave Buster
+12:Hypno-shroom
+13:Scaredy-shroom
+14:Ice-shroom
+15:Doom-shroom
+16:Lily Pad
+17:Squash
+18:Threepeater
+19:Tangle Kelp
+20:Jalapeno
+21:Spikeweed
+22:Torchwood
+23:Tall-nut
+24:Sea-shroom
+25:Plantern
+26:Cactus
+27:Blover
+28:Split Pea
+29:Starfruit
+30:Pumpkin
+31:Mangnet-shroom
+32:Cabbage-pult
+33:Flower Pot
+34:Kernel-pult
+35:Coffee Bean
+36:Garlic
+37:Umbrella Leaf
+38:Marigold
+39:Melon-pult
+40:Pult-shroom
+41:Water Pot
+42:Explode-o-nut
+43:Hurrikale
+44:Poison-shroom
+45:Pickled Pepper
+46:Endurian
+47:Spore-shroom
+48:Bloomerang
+49:Spring Bean
+50:Goo Peashooter
+51:Cryo-nut
+52:Moonflower
 53:冰山莴苣
 54:阳光豆
 55:火蘑菇
@@ -2420,7 +2420,7 @@ db 8B 47 24 3B 47 28
                     </CheatEntry>
                     <CheatEntry>
                       <ID>147</ID>
-                      <Description>Overlapping Planting</Description>
+                      <Description>"Overlapping Planting"</Description>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>[ENABLE]
 //code from here to '[DISABLE]' will be used to enable the cheat
@@ -2574,7 +2574,7 @@ db 8B 02 85 C0 89 44 24 3C
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -2585,7 +2585,7 @@ db 8B 02 85 C0 89 44 24 3C
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -2667,7 +2667,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -2678,7 +2678,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -2760,7 +2760,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -2771,7 +2771,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -2853,7 +2853,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -2864,7 +2864,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -2946,7 +2946,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -2957,7 +2957,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -3039,7 +3039,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -3050,7 +3050,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -3132,7 +3132,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -3143,7 +3143,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -3225,7 +3225,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -3236,7 +3236,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -3318,7 +3318,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -3329,7 +3329,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -3411,7 +3411,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -3422,7 +3422,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -3714,7 +3714,7 @@ db 0F 85 E5 00 00 00
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:召唤P-2轰炸机
 18:豌豆突击队
 19:水雷
@@ -3725,7 +3725,7 @@ db 0F 85 E5 00 00 00
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:T-34坦克
 29:豌豆星
 30:碉堡
@@ -3875,7 +3875,7 @@ db 8B 47 24 3B 47 28
                     </CheatEntry>
                     <CheatEntry>
                       <ID>507</ID>
-                      <Description>Overlapping Planting</Description>
+                      <Description>"Overlapping Planting"</Description>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>[ENABLE]
 //code from here to '[DISABLE]' will be used to enable the cheat
@@ -4029,7 +4029,7 @@ db 8B 02 85 C0 89 44 24 3C
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4040,7 +4040,7 @@ db 8B 02 85 C0 89 44 24 3C
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4051,7 +4051,7 @@ db 8B 02 85 C0 89 44 24 3C
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -4120,7 +4120,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4131,7 +4131,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4142,7 +4142,7 @@ OC:——其它——
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -4211,7 +4211,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4222,7 +4222,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4233,7 +4233,7 @@ OC:——其它——
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -4302,7 +4302,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4313,7 +4313,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4324,7 +4324,7 @@ OC:——其它——
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -4393,7 +4393,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4404,7 +4404,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4415,7 +4415,7 @@ OC:——其它——
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -4484,7 +4484,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4495,7 +4495,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4506,7 +4506,7 @@ OC:——其它——
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -4575,7 +4575,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4586,7 +4586,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4597,7 +4597,7 @@ OC:——其它——
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -4666,7 +4666,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4677,7 +4677,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4688,7 +4688,7 @@ OC:——其它——
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -4757,7 +4757,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4768,7 +4768,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4779,7 +4779,7 @@ OC:——其它——
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -4848,7 +4848,7 @@ OC:——其它——
 13:油桃爆破手
 14:霜雪冰菇
 15:大型炸药
-16:荷叶
+16:Lily Pad
 17:倭瓜
 18:豌豆突击队
 19:水雷
@@ -4859,7 +4859,7 @@ OC:——其它——
 24:海军蘑菇
 25:苹果
 26:寒冰防空炮
-27:三叶草
+27:Blover
 28:装甲豌豆
 29:星尘
 30:碉堡
@@ -4870,7 +4870,7 @@ OC:——其它——
 35:生长素
 36:甩葱miku
 37:保护伞
-38:金盏花
+38:Marigold
 39:火炮
 40:超级机枪
 41:九头向日葵
@@ -5186,11 +5186,25 @@ db 0F 85 E5 00 00 00
     </CheatEntry>
     <CheatEntry>
       <ID>639</ID>
-      <Description>"Auto Assemble script"</Description>
+      <Description>"Github Page"</Description>
       <VariableType>Auto Assembler Script</VariableType>
       <AssemblerScript>[ENABLE]
 {$lua}
 ShellExecute("https://github.com/K0t0k0/PvZBanned-CheatTables")
+
+
+[DISABLE]
+
+
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>640</ID>
+      <Description>"Forked"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+{$lua}
+ShellExecute("https://github.com/Adnini983/PvZHB-CheatTables")
 
 
 [DISABLE]
