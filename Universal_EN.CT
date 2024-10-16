@@ -326,7 +326,7 @@ db 89 87 90 00 00 00
                     </CheatEntry>
                     <CheatEntry>
                       <ID>405</ID>
-                      <Description>"子弹变玉米炮"</Description>
+                      <Description>"Bullet turns into corn cannon"</Description>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>[ENABLE]
 //code from here to '[DISABLE]' will be used to enable the cheat
@@ -364,7 +364,7 @@ db 89 50 5C C7 40 38 00 00 00 00
                     </CheatEntry>
                     <CheatEntry>
                       <ID>422</ID>
-                      <Description>"竖排种植"</Description>
+                      <Description>"Vertical planting"</Description>
                       <VariableType>Auto Assembler Script</VariableType>
                       <AssemblerScript>[ENABLE]
 //code from here to '[DISABLE]' will be used to enable the cheat
@@ -480,7 +480,7 @@ unregistersymbol(slot)
                     <CheatEntry>
                       <ID>201</ID>
                       <Description>"Slot 1"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -534,62 +534,62 @@ unregistersymbol(slot)
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -601,7 +601,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>204</ID>
                       <Description>"Slot 2"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -655,62 +655,62 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -722,7 +722,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>205</ID>
                       <Description>"Slot 3"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -776,62 +776,62 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -843,7 +843,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>206</ID>
                       <Description>"Slot 4"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -897,62 +897,62 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -964,7 +964,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>207</ID>
                       <Description>"Slot 5"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -1018,62 +1018,62 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -1085,7 +1085,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>208</ID>
                       <Description>"Slot 6"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -1139,62 +1139,62 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -1206,7 +1206,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>209</ID>
                       <Description>"Slot 7"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -1260,62 +1260,62 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -1327,7 +1327,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>210</ID>
                       <Description>"Slot 8"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -1381,62 +1381,62 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -1448,7 +1448,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>211</ID>
                       <Description>"Slot 9"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -1502,62 +1502,62 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -1569,7 +1569,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>212</ID>
                       <Description>"Slot 10"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -1623,62 +1623,62 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -1691,14 +1691,14 @@ OC:——其它——
                 </CheatEntry>
                 <CheatEntry>
                   <ID>226</ID>
-                  <Description>"禅境花园"</Description>
+                  <Description>"Zen Garden"</Description>
                   <Options moHideChildren="1"/>
                   <GroupHeader>1</GroupHeader>
                   <Address/>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>227</ID>
-                      <Description>"肥料"</Description>
+                      <Description>"Fertilizer"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>PlantsVsZombies.exe+464B18</Address>
@@ -1709,7 +1709,7 @@ OC:——其它——
                     </CheatEntry>
                     <CheatEntry>
                       <ID>228</ID>
-                      <Description>"杀虫剂"</Description>
+                      <Description>"Bug Spray"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>PlantsVsZombies.exe+464B18</Address>
@@ -1720,7 +1720,7 @@ OC:——其它——
                     </CheatEntry>
                     <CheatEntry>
                       <ID>225</ID>
-                      <Description>"巧克力"</Description>
+                      <Description>"Chocolate"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>PlantsVsZombies.exe+464B18</Address>
@@ -1731,7 +1731,7 @@ OC:——其它——
                     </CheatEntry>
                     <CheatEntry>
                       <ID>229</ID>
-                      <Description>"智慧树肥料"</Description>
+                      <Description>"Tree Food"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>PlantsVsZombies.exe+464B18</Address>
@@ -1742,7 +1742,7 @@ OC:——其它——
                     </CheatEntry>
                     <CheatEntry>
                       <ID>231</ID>
-                      <Description>"智慧树高度"</Description>
+                      <Description>"Tree High"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>PlantsVsZombies.exe+464B18</Address>
@@ -1755,14 +1755,14 @@ OC:——其它——
                 </CheatEntry>
                 <CheatEntry>
                   <ID>216</ID>
-                  <Description>"跳关与混乱"</Description>
+                  <Description>"Level&amp;Mode Change"</Description>
                   <Options moHideChildren="1"/>
                   <GroupHeader>1</GroupHeader>
                   <Address/>
                   <CheatEntries>
                     <CheatEntry>
                       <ID>215</ID>
-                      <Description>"冒险模式"</Description>
+                      <Description>"Adventure Mode Level"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>PlantsVsZombies.exe+464B18</Address>
@@ -1773,84 +1773,84 @@ OC:——其它——
                     </CheatEntry>
                     <CheatEntry>
                       <ID>221</ID>
-                      <Description>"模式混乱(易崩溃)"</Description>
-                      <DropDownList DisplayValueAsItem="1">0:冒险模式
-OA:——迷你游戏——
-19:植物僵尸
-20:坚果保龄球
-21:老虎机
-22:雨中种植物
-23:宝石迷阵
-24:隐形食脑者
-25:看星星
-26:僵尸水族馆
-27:宝石迷阵转转看
-28:小僵尸大麻烦
-29:保护传送门
-30:你看 它们像柱子一样
-31:雪橇区
-32:僵尸快跑
-33:锤僵尸
-34:谁笑到最后
-35:植物僵尸2
-36:坚果保龄球2
-37:跳跳舞会
-38:僵王博士的复仇
-39:坚果保龄球 艺术锦标赛
-40:晴天
-41:无草皮之地
-42:重要时间
-43:挑战 种太阳花的艺术
-44:空袭
-45:冰冻关卡
-46:超乎寻常的压力
-47:坟墓模式
-48:你能把它挖出来吗？
-49:黑暗的暴风雨夜
-50:蹦极闪电战
-51:松鼠
-52:血月降临
-53:双重麻烦
-54:殖民意识
-55:塔防
-56:通货膨胀
-57:黄油爆米花
-58:僵王博士的复仇2
-59:乱入打击
-60:全靠自己
-61:按键绑定
-62:旷日持久的战争
-63:太阳花的指令
-64:镜像
-65:魔法种植
-66:边界条约
-67:力拔山河
-68:七宗罪
-69:薛定谔的僵尸
-70:海森堡的僵尸
-71:狂欢庭院
+                      <Description>"Mode Change(Unstable)"</Description>
+                      <DropDownList DisplayValueAsItem="1">0:Adventure Mode
+OA:——Mini-games——
+19:ZomBotany
+20:Wall-nut Bowling
+21:Slot Machine
+22:It`s Raining Seeds
+23:Beghouled
+24:Invisi-ghoul
+25:Seeing Stars
+26:Zombiquarium
+27:Beghouled Twist
+28:Big Trouble Little Zombie
+29:Portal Combat
+30:Column Like You See `Em
+31:Bobsled Bonanza
+32:Zombie Nimble Zombie Quick
+33:Whack a Zombie
+34:Last Stand
+35:ZomBotany 2
+36:Wall-nut Bowling 2
+37:Pogo Party
+38:Dr. Zomboss`s Revenge
+39:The Wall
+40:Sunny Day
+41:Unsodded
+42:Big Time
+43:Sun Flower
+44:Air Raid
+45:Ice Level
+46:High Gravity
+47:Grave Danger
+48:Can You Dig It?
+49:Dark Stormy Night
+50:Bungee Blitz
+51:Squirrel
+52:Blood Moon Rising
+53:Double Trouble
+54:Colonial Awareness
+55:Tower Defense
+56:Inflation
+57:Buttered Popcorn
+58:Dr.Zomboss`Revenge 2
+59:Crossover Hit
+60:All By Oneself
+61:Key Bind
+62:Prolonged War
+63:Sunflower Commander
+64:Mirror
+65:Magic Planting
+66:Border Treaty
+67:We,Smash!
+68:7 Deadly Sins
+69:Schrodinger`s Zombie
+70:Heisenberg`s Zombie
+71:Raveyard
 72:2048
-73:爆破小队
-74:植物僵尸3
-75:泳池派对
-76:盲打
-77:星期三
-78:僵王博士的复仇3
-123:热浪
-124:大僵尸大麻烦
-125:纸虫
-126:禁止通行
-127:隐形守护者
-128:坚果保龄球3
-129:阳光炸弹
-130:贪吃蛇
-131:我们之中
-132:黑暗的暴风雨夜2
-133:重型武器
-134:夜间诅咒
-135:气候
-136:末日星河
-137:时间攻击
+73:Pop Goes The Zombie
+74:ZomBotany 3
+75:Pool Party
+76:Blind Faith
+77:Windnesday
+78:Dr.Zomboss`Revenge 3
+123:Heat Wave
+124:Big Trouble Big Zombie
+125:Peaperworm
+126:None Shall Pass
+127:Invisible Guardian
+128:Wall-nut Bowling 3
+129:Sun Bomb
+130:Snake
+131:Amogus!
+132:Dark Stormy Night 2
+133:Heavy Weapon
+134:Nocturnal Curse
+135:Climatic Climate
+136:Stargeddon
+137:Time Attack
 OB:——解谜模式(砸花瓶)——
 79:破罐者
 80:全部留下
@@ -2048,7 +2048,7 @@ OF:——其它——
                     <CheatEntry>
                       <ID>214</ID>
                       <Description>"僵尸图鉴"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:普通僵尸
+                      <DropDownList DisplayValueAsItem="1">0:普通僵尸
 1:旗帜僵尸
 2:摇旗僵尸
 3:撑杆僵尸
@@ -2110,7 +2110,7 @@ OF:——其它——
                     <CheatEntry>
                       <ID>199</ID>
                       <Description>"光标选取的种子包"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:Peashooter
 1:Sunflower
 2:Cherry Bomb
@@ -2164,62 +2164,62 @@ OF:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
-OB:——僵尸——
-77:普通僵尸
-78:摇旗僵尸
-79:路障僵尸
-80:撑杆僵尸
-81:铁桶僵尸
-82:读报僵尸
-83:铁栅门僵尸
-84:橄榄球僵尸
-85:舞王僵尸
-86:潜水僵尸
-87:海豚骑士僵尸
-88:雪橇车僵尸
-89:玩偶匣僵尸
-90:气球僵尸
-91:矿工僵尸
-92:跳跳僵尸
-93:雪人僵尸
-94:蹦极僵尸
-95:扶梯僵尸
-96:投石车僵尸
-97:巨人僵尸
-98:小鬼僵尸
-99:砖块僵尸
-100:超级橄榄球僵尸
-101:杂志僵尸
-102:暴走巨人僵尸
-103:僵尸墓碑
-104:垃圾桶僵尸
-OC:——其它——
-71:Null(重置植物)
-72:Null(填补土坑)
-73:太阳(老虎机)
-74:钻石(老虎机)
-75:购买潜水僵尸
-76:购买奖杯
-105:Null(不知名僵尸)
-106:Null(错误向日葵)
-107:Null(空白 会崩溃)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
+OB:——Zombies——
+77:Zombies
+78:Flag Zombie
+79:Conehead Zombie
+80:Pole Vaulting Zombie
+81:Buckethead Zombie
+82:Newspaper Zombie
+83:Screen Door Zombie
+84:Football Zombie
+85:Dancing Zombie
+86:Snorkel Zombie
+87:Dolphin Rider Zombie
+88:Zomboni
+89:Jack-in-the-box Zombie
+90:Balloon Zombie
+91:Digger Zombie
+92:Pogo Zombie
+93:Zombie Yeti
+94:Bungee Zombie
+95:Ladder Zombie
+96:Catapult Zombie
+97:Gargantuar
+98:Imp
+99:Brickhead Zombie
+100:All-star Zombie
+101:Magazine Zombie
+102:Giga-gargantuar
+103:Zombie Gravestone
+104:Trash Can Zombie
+OC:——Others——
+71:Shuffle plants
+72:Refill crater
+73:Sun
+74:Diamond
+75:Buy Snorkel Zombie
+76:Buy Trophy
+105:Solar Car Zombie(Sprout)
+106:Glitch Sunflower
+107:Empty(Crash)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -2233,7 +2233,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>203</ID>
                       <Description>"植物图鉴"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">0:Peashooter
+                      <DropDownList DisplayValueAsItem="1">0:Peashooter
 1:Sunflower
 2:Cherry Bomb
 3:Wall-nut
@@ -2286,23 +2286,23 @@ OC:——其它——
 50:Goo Peashooter
 51:Cryo-nut
 52:Moonflower
-53:冰山莴苣
-54:阳光豆
-55:火蘑菇
-56:机枪射手
-57:双子向日葵
-58:忧郁蘑菇
-59:香蒲
-60:“冰”瓜
-61:吸金磁
-62:地刺王
-63:玉米加农炮
-64:模仿者
-65:巨大坚果
-66:幼苗
-67:棱角草(阳光豆贴图)
-68:菜问(阳光豆贴图)
-69:棱镜菇(大喷菇贴图)
+53:Iceberg Lettuce
+54:Sun Bean
+55:Pyro-shroom
+56:Gatling Pea
+57:Twin Sunflower
+58:Gloom-shroom
+59:Cattail
+60:Winter Melon
+61:Gold Magnet
+62:Spikerock
+63:Cob Cannon
+64:Imitater
+65:Giant Wall-nut
+66:Sprout
+67:Magnifying Grass("Sun Beam" Skin)
+68:Bonk Choy("Sun Beam" Skin)
+69:Prism-shroom("Fume-shroom" Skin)
 </DropDownList>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
@@ -2557,7 +2557,7 @@ db 8B 02 85 C0 89 44 24 3C
                     <CheatEntry>
                       <ID>364</ID>
                       <Description>"Slot 1"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -2612,7 +2612,7 @@ db 8B 02 85 C0 89 44 24 3C
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -2628,7 +2628,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -2650,7 +2650,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>365</ID>
                       <Description>"Slot 2"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -2705,7 +2705,7 @@ OC:——其它——
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -2721,7 +2721,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -2743,7 +2743,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>366</ID>
                       <Description>"Slot 3"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -2798,7 +2798,7 @@ OC:——其它——
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -2814,7 +2814,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -2836,7 +2836,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>367</ID>
                       <Description>"Slot 4"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -2891,7 +2891,7 @@ OC:——其它——
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -2907,7 +2907,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -2929,7 +2929,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>368</ID>
                       <Description>"Slot 5"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -2984,7 +2984,7 @@ OC:——其它——
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -3000,7 +3000,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -3022,7 +3022,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>369</ID>
                       <Description>"Slot 6"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -3077,7 +3077,7 @@ OC:——其它——
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -3093,7 +3093,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -3115,7 +3115,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>370</ID>
                       <Description>"Slot 7"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -3170,7 +3170,7 @@ OC:——其它——
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -3186,7 +3186,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -3208,7 +3208,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>371</ID>
                       <Description>"Slot 8"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -3263,7 +3263,7 @@ OC:——其它——
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -3279,7 +3279,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -3301,7 +3301,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>372</ID>
                       <Description>"Slot 9"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -3356,7 +3356,7 @@ OC:——其它——
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -3372,7 +3372,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -3394,7 +3394,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>373</ID>
                       <Description>"Slot 10"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -3449,7 +3449,7 @@ OC:——其它——
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -3465,7 +3465,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -3607,7 +3607,7 @@ db 0F 85 E5 00 00 00
                 </CheatEntry>
                 <CheatEntry>
                   <ID>149</ID>
-                  <Description>"跳关与混乱"</Description>
+                  <Description>"Level&amp;Mode Change"</Description>
                   <Options moHideChildren="1"/>
                   <GroupHeader>1</GroupHeader>
                   <Address/>
@@ -3625,7 +3625,7 @@ db 0F 85 E5 00 00 00
                     </CheatEntry>
                     <CheatEntry>
                       <ID>378</ID>
-                      <Description>"模式混乱(易崩溃)"</Description>
+                      <Description>"Mode Change(Unstable)"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>PlantsVsZombies.exe+2A9EC0</Address>
@@ -3697,7 +3697,7 @@ db 0F 85 E5 00 00 00
                     <CheatEntry>
                       <ID>151</ID>
                       <Description>"光标选择的种子包"</Description>
-                      <DropDownList DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -3752,7 +3752,7 @@ db 0F 85 E5 00 00 00
 51:幼苗
 52:橙子(反向)
 80:随机的惊喜
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -3768,7 +3768,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4012,7 +4012,7 @@ db 8B 02 85 C0 89 44 24 3C
                     <CheatEntry>
                       <ID>512</ID>
                       <Description>"Slot 1"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4066,7 +4066,7 @@ db 8B 02 85 C0 89 44 24 3C
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4082,7 +4082,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4103,7 +4103,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>513</ID>
                       <Description>"Slot 2"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4157,7 +4157,7 @@ OC:——其它——
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4173,7 +4173,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4194,7 +4194,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>514</ID>
                       <Description>"Slot 3"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4248,7 +4248,7 @@ OC:——其它——
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4264,7 +4264,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4285,7 +4285,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>515</ID>
                       <Description>"Slot 4"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4339,7 +4339,7 @@ OC:——其它——
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4355,7 +4355,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4376,7 +4376,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>516</ID>
                       <Description>"Slot 5"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4430,7 +4430,7 @@ OC:——其它——
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4446,7 +4446,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4467,7 +4467,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>517</ID>
                       <Description>"Slot 6"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4521,7 +4521,7 @@ OC:——其它——
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4537,7 +4537,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4558,7 +4558,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>518</ID>
                       <Description>"Slot 7"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4612,7 +4612,7 @@ OC:——其它——
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4628,7 +4628,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4649,7 +4649,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>519</ID>
                       <Description>"Slot 8"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4703,7 +4703,7 @@ OC:——其它——
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4719,7 +4719,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4740,7 +4740,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>520</ID>
                       <Description>"Slot 9"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4794,7 +4794,7 @@ OC:——其它——
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4810,7 +4810,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -4831,7 +4831,7 @@ OC:——其它——
                     <CheatEntry>
                       <ID>521</ID>
                       <Description>"Slot 10"</Description>
-                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——植物——
+                      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">OA:——Plants——
 0:豌豆下士
 1:向日葵后勤
 2:分裂樱桃炸弹
@@ -4885,7 +4885,7 @@ OC:——其它——
 50:坦克坚果
 51:幼苗
 52:橙子(反向)
-OB:——僵尸——
+OB:——Zombies——
 60:步兵
 61:步兵(路障僵尸)
 62:摩托化步兵
@@ -4901,7 +4901,7 @@ OB:——僵尸——
 72:冲击者
 73:搬运兵
 74:军官
-OC:——其它——
+OC:——Others——
 54:拖拽植物
 55:填补土坑
 56:太阳(老虎机)
@@ -5042,7 +5042,7 @@ db 0F 85 E5 00 00 00
                 </CheatEntry>
                 <CheatEntry>
                   <ID>526</ID>
-                  <Description>"跳关与混乱"</Description>
+                  <Description>"Level&amp;Mode Change"</Description>
                   <Options moHideChildren="1"/>
                   <GroupHeader>1</GroupHeader>
                   <Address/>
@@ -5060,7 +5060,7 @@ db 0F 85 E5 00 00 00
                     </CheatEntry>
                     <CheatEntry>
                       <ID>528</ID>
-                      <Description>"模式混乱(易崩溃)"</Description>
+                      <Description>"Mode Change(Unstable)"</Description>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>4 Bytes</VariableType>
                       <Address>PlantsVsZombies.exe+2A9EC0</Address>
